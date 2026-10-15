@@ -6,8 +6,8 @@
 
 Откройте [последний выпуск](https://github.com/OtaBob/matchlab-releases/releases/latest) и выберите файл в разделе **Assets**:
 
-- **Windows:** `MatchLab-Setup-0.7.0.exe` — NHL и AHL.
-- **Android:** `MatchLab-Android-3.apk` — NHL.
+- **Windows:** файл `MatchLab-Setup-...exe` — NHL и AHL.
+- **Android:** файл `MatchLab-Android-...apk` — NHL.
 
 При выходе следующей версии MatchLab покажет описание изменений и предложит обновиться. В Android установку скачанного APK завершает системный установщик.
 
